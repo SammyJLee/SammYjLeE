@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Markdown
-subtitle: The beginning
+subtitle: Come with me on a journey through time and space
 gh-repo: SammyJLee/SammyJLee.github.io
 tags: [markdown]
 ---
