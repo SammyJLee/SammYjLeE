@@ -23,7 +23,7 @@ On every job description, we can see this item:
 
 But how to demonstrate these skills, specifically the written part? How have people previously shown written skills when applying for jobs? The resume for starters, the cover letter too. Then, if they get to interview stage, they can talk about the types of docs we have written. 
 
-For my course that includes business correspondence (emails,letters), short reports (progress, incident, recommendations), instruction manuals, and 10-20 page technical problem-solution reports. 
+For my course that includes business correspondence (emails, letters), short reports (progress, incident, recommendations), 10-page user guides, and 10-20 page technical problem-solution reports. 
 
 All great, but how does a potential employer get to see that, or even believe that? Why, Github of course! 
 
