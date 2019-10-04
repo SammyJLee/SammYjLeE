@@ -19,11 +19,13 @@ This access to student code allows for a more in-depth understanding of the tech
 On every job description, we can see this item:
 > must have excellent oral and written communication skills. 
 
-How have people previously shown written skills? The resume for starters, the cover letter too. Then, if we get to interview stage, we can talk about the types of docs we have written. For my course that includes business correspondence (emails, letters), short reports (progress, incident, recommendations), instrcution manuals, and 10-20 page technical problem solution reports. \
+How have people previously shown written skills? The resume for starters, the cover letter too. Then, if we get to interview stage, we can talk about the types of docs we have written. 
 
-All great, but how does a potential employer get to see that, or even believe that? Why, Github of course! 
+For my course that includes business correspondence (emails, letters), short reports (progress, incident, recommendations), instrcution manuals, and 10-20 page technical problem solution reports. 
 
-Easier said than done. Github, with my absolutely limited knowledge, doesn't make it easy for users to upload docs in the common formats my students create: docx or pdf. Much reserach later, I realize the need to learn and then teach markdown. 
+All great, but how does a potential employer get to see that, or even believe that? Why, Github of course! Easier said than done.
+
+Github, with my absolutely limited knowledge, doesn't make it easy for users to upload docs in the common formats my students create: docx or pdf. Much research later, I realize the need to learn and then teach markdown. 
 
 Markdown appears simple....hopefully. FIrst I have to deal with the lack of knowledge of Github, Git, editors, static site generators.....aaaaaargh. Better get the learning on. Time to engage at least one core of the 48-year-old processor that resides in my head. 
 
