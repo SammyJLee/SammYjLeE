@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Test Sam Brain
+subtitle: Subtitle Sam
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-The page reflects liek a mirror my appalling understanding of Github concepts
+The page reflects likk a mirror my appalling understanding of Github concepts.
 
 ## Me and LFC
 
