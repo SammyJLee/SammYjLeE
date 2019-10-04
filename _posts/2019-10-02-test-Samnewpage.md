@@ -32,6 +32,7 @@ You can add notification, warning and error boxes like this:
 
 
 #### New Item
+
 {: .box-note}
 **Note:** This is Sam's test note
 
