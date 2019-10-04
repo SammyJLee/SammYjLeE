@@ -7,8 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [Sam]
 ---
 
-The page reflects likk a mirror my appalling understanding of Github concepts.
-
+The page reflects like a mirror my appalling understanding of Github concepts.
+# Me
 ## Me and LFC
+### Me, thee, and LFC
 
 
