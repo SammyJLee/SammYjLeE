@@ -21,7 +21,7 @@ This access to student code allows for a more in-depth understanding of the tech
 On every job description, we can see this item:
 > must have excellent oral and written communication skills. 
 
-But how to demonstrate these skills, specifically the written part? How have people previously shown written skills in interviews? The resume for starters, the cover letter too. Then, if we get to interview stage, we can talk about the types of docs we have written. 
+But how to demonstrate these skills, specifically the written part? How have people previously shown written skills when applying for jobs? The resume for starters, the cover letter too. Then, if they get to interview stage, they can talk about the types of docs we have written. 
 
 For my course that includes business correspondence (emails,letters), short reports (progress, incident, recommendations), instruction manuals, and 10-20 page technical problem-solution reports. 
 
