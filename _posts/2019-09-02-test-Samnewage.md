@@ -2,7 +2,7 @@
 layout: post
 title: Test Sam Brain
 subtitle: Subtitle Sam
-gh-repo: daattali/beautiful-jekyll
+gh-repo: SammyJLee/SammyJLee.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
