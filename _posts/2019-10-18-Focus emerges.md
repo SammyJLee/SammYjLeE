@@ -3,7 +3,6 @@ layout: post
 title: Two focal points for site
 subtitle: An idea forms
 gh-repo: SammyJLee/SammyJLee.github.io
-gh-badge: [star, fork, follow]
 tags: [Sam test brain]
 
 ## Two focal points
