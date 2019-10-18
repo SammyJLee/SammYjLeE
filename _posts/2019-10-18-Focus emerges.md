@@ -5,8 +5,6 @@ subtitle: An idea forms
 gh-repo: SammyJLee/SammyJLee.github.io
 gh-badge: [star, fork, follow]
 tags: [Sam test brain]
----
-I'm trying to write regular [markdown](http://markdowntutorial.com/) here and Jekyll will convert it into a webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 ## Two focal points
 
@@ -20,9 +18,6 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 Here's a code chunk:
 
