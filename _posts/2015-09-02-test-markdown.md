@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Two focal points for site
+subtitle: An idea forms
 gh-repo: SammyJLee/SammyJLee.github.io
 gh-badge: [star, fork, follow]
 tags: [Sam test brain]
