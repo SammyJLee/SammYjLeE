@@ -23,12 +23,13 @@ description: Using language to achieve your goals
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Football and Me: "aboutme"
+  CST Student Projects: "CST Student Projects"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  CST Student Projects: "CST Student Projects"
+  
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
