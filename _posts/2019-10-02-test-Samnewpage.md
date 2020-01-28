@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning Markdown
-subtitle: Come with me on a journey through time and space
+title: Learning Markdown to Teach Writing
+subtitle: Come with me on a journey through time and space, poor understanding, and teacher stress
 gh-repo: SammyJLee/SammyJLee.github.io
 tags: [markdown]
 ---
