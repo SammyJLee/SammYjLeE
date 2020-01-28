@@ -6,7 +6,7 @@ gh-repo: SammyJLee/SammyJLee.github.io
 tags: [markdown]
 ---
 
-I'll focus on my attempts to use markdown to create a Jekyll-based static site hosted on Github so that I can teach my post-secondary students to do the same. Come walk with me on my journey into insanity.
+I'll focus on my attempts to use markdown to create a Jekyll-based static site hosted on Github so that I can teach my post-secondary students to do the same in their Communication course. Come walk with me on my journey into insanity.
 
 ## A little background: let's start with the why
 
