@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning Markdown to Teach Writing
-subtitle: Come with me on a journey through time and space, poor understanding, and teacher stress
+title: Learning Markdown: A non-tecchie perspective
+subtitle: Come with me on a journey through poor understanding
 gh-repo: SammyJLee/SammyJLee.github.io
 tags: [markdown]
 ---
