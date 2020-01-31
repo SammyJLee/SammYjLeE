@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Markdown: A non-tecchie perspective
+title: Learning Markdown from a non-tech perspective
 subtitle: Come with me on a journey through poor understanding
 gh-repo: SammyJLee/SammyJLee.github.io
 tags: [markdown]
