@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Task 1: Take this markdown tutorial
+title: Take this markdown tutorial first
 subtitle: Start now!
 tags: [Markdown, test]
 ---
