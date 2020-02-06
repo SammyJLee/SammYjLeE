@@ -5,13 +5,13 @@ subtitle: Give it a try
 tags: [Markdown, test]
 ---
 
-# **Markdown Tasks**
+# Markdown Tasks
 
 Your task here is to create a Markdown file which contains all the information below
 
 Once you have created the file, use [the Mardkdown to pdf converter](https://www.markdowntopdf.com/) to save the file as a pdf. Upload both the markdown file and the pdf output to the Learning Hub Assignments Section.
 
-## **Task 1: Create a Second Level Heading Titled Famous Quotes** 
+## Task 1: Create a Second Level Heading Titled Famous Quotes
 
 In this section, find two quotes from [this quotation website](https://www.brainyquote.com/topics) and do the following:
 
