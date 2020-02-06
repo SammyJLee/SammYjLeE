@@ -35,7 +35,7 @@ This second quote, from yet another absurdist comedian - Spike Milligan -  remin
 
 ---
 
-## **Task 2: Insert an image of an animal you like**
+## Task 2: Insert an image of an animal you like
 
 1. Create a second level heading
 2. Introduce the image with why you like the animal. 
@@ -47,7 +47,7 @@ I had a dog for all of my life until I left home. I remember all of them fondly,
 
 ![Pyrenenan Mountain Dog](https://www.telegraph.co.uk/content/dam/Pets/28aug/Crufts_Day1_-Pyren_3222275a.jpg?imwidth=450) 
 
-## **Task 3: Create a Table**
+## Task 3: Create a Table
 
 Create a second level heading called "Tables are Fun"
 
@@ -65,7 +65,7 @@ Obtain | *insert your answer here*
 Subsequent| *insert your answer here*
 In the vicinity of | *insert your answer here*
 
-## **Task 4: Simplify these Phrases and Use Inline Code**
+## Task 4: Simplify these Phrases and Use Inline Code
 
 Create a level 3 heading please, title "Conciseness Helps Web Readers"
 
@@ -87,7 +87,7 @@ Here are the two sample sentences for you to make more concise. Remember the inl
 
 > There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
 
-## **Task 5: Nearing the End: Generating Code Blocks**
+## Task 5: Nearing the End: Generating Code Blocks
 
 Markdown allows you to create code blocks that can either look like this: 
 
