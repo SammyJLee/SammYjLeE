@@ -1,15 +1,110 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-bigimg: /img/path.jpg
-tags: [books, test]
+title: Try these Markdown taks
+subtitle: Give it a try
+tags: [Markdown, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+# **Markdown Tasks**
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Your task here is to create a Markdown file which contains all the information below
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Once you have created the file, use [the Mardkdown to pdf converter](https://www.markdowntopdf.com/) to save the file as a pdf. Upload both the markdown file and the pdf output to the Learning Hub Assignments Section.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+## **Task 1: Create a Second Level Heading Titled Famous Quotes** 
+
+In this section, find two quotes from [this quotation website](https://www.brainyquote.com/topics) and do the following:
+
+1. Introduce the quote
+2. Use a link to the website somewhere in the introduction
+2. Use the blockquote feature to show the quote
+3. Place a horizontal line between the two quotes
+
+Here is my example:  
+
+## Famous Quotes
+
+This first quote from [Steven Wright](https://www.brainyquote.com/quotes/steven_wright_128218?src=t_time), a silly comedian, mulls on the concept of time:
+
+>I went to a restaurant that serves 'breakfast at any time'. So I ordered French Toast during the Renaissance.
+
+---
+This second quote, from yet another absurdist comedian - Spike Milligan -  reminds me of my [dear old dad](https://www.brainyquote.com/topics/dad-quotes).
+
+>My Father had a profound influence on me. He was a lunatic.
+
+---
+
+## **Task 2: Insert an image of an animal you like**
+
+1. Create a second level heading
+2. Introduce the image with why you like the animal. 
+3. Add alt-text for accessibility.
+
+## Dogs and me
+
+I had a dog for all of my life until I left home. I remember all of them fondly, especially the one below, which I could ride. It wasn't easy in a small house with five kids and this beast.
+
+![Pyrenenan Mountain Dog](https://www.telegraph.co.uk/content/dam/Pets/28aug/Crufts_Day1_-Pyren_3222275a.jpg?imwidth=450) 
+
+## **Task 3: Create a Table**
+
+Create a second level heading called "Tables are Fun"
+
+> **Note**: The table should be the same as the one below, and you must insert the simplified version of the text on the left. The simplified version must be in *italics*.
+
+The first simplified version has been done for you. 
+
+
+Text | Simplified Text (*In Italics*)
+-----|----------------
+Due to the fact that | *because*
+In the event that | *Insert your answer here*
+At this point in time | *insert your answer here*
+Obtain | *insert your answer here*
+Subsequent| *insert your answer here*
+In the vicinity of | *insert your answer here*
+
+## **Task 4: Simplify these Phrases and Use Inline Code**
+
+Create a level 3 heading please, title "Conciseness Helps Web Readers"
+
+Add an introductory phrase which states why you as a web reader expcet simple, concise writing.
+
+Turn a sentence like this: 
+
+Our Web site has made available many of the things you can use for making a decision on the best dentist.
+
+into this: 
+
+`Our website presents criteria for determining the best dentist.`
+
+Thanks to the [Online Writing Lab](https://owl.purdue.edu/owl/general_writing/academic_writing/conciseness/index.html) for this example.
+
+Here are the two sample sentences for you to make more concise. Remember the inline code for your answer.
+
+>At this point in time we can't ascertain the reason as to why the screen door was left open.
+
+> There is a desire on the part of many of us to maintain a spring break for the purpose of getting away from the demands of our studies.
+
+## **Task 5: Nearing the End: Generating Code Blocks**
+
+Markdown allows you to create code blocks that can either look like this: 
+
+```
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
+
+or with the highlighted elements like this this:
+```javascript
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
+Please create a second level heading titled "Code Blocks Make Me Happy"
+
+Introduce two code blocks for two different langauges by stating what the code does.
+
+For each code block, make sure to use the formatting for that code, as in the second example above. Markdown does this for you.
+
+Add a final statement in bold that states your current desire to finish this activity. Here is my example: 
+
+**I am SO done.**
