@@ -22,10 +22,10 @@ description: Using language to achieve your goals
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  Football and Me: "aboutme"
-  CST Student Projects: "CST Student Projects"
-  Resources:
+# navbar-links:
+  #Football and Me: "aboutme"
+  #CST Student Projects: "CST Student Projects"
+  #Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
