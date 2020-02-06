@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try these Markdown taks
+title: Try these Markdown tasks
 subtitle: Give it a try
 tags: [Markdown, test]
 ---
